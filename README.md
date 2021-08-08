@@ -1,7 +1,7 @@
 # HackBio
 Internship for Bioinformatics
 
-1. #!/usr/bio/eng Receipt
+1. #!/usr/bin/env Rscript
 2. #Task 0 using R language to print name, email, slack username, biostack, twitter handle
 3. Print ("name = Mustapha Olaolu OLAWUNI", quote = FALSE)
 4. Print ("Email = molawuni@tnstate.edu", quote = FALSE)
